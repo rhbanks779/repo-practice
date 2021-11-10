@@ -1,0 +1,57 @@
+
+body{
+		background-color: skyblue;
+	}
+
+	h2{
+		text-decoration: underline;
+	}
+
+	h2{
+		font-weight: bold;
+		font-size: large;
+		text-align: center;
+	}
+	p{
+		font-style: oblique;
+	}
+
+	td{
+			text-align: center;
+		}
+
+	form{
+	text-align: center;
+	font-style: oblique;
+	border-style: double;
+	}
+	input[type=button]:hover{
+	border: solid;
+	background-color: mediumvioletred;
+	}
+	input[type=text]:focus{
+		background-color: mediumvioletred;
+	}
+	input[type=radio] :hover{
+		background-color: mediumvioletred;
+	}
+
+	body{
+		background-color: skyblue;
+	}
+
+	h2{
+		text-decoration: underline;
+	}
+
+	p{
+		font-size: 2em;
+	}
+
+	a{
+		color: purple;
+	}
+
+	li{
+		font-style: oblique;
+	}
